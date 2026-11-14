@@ -1,0 +1,9 @@
+# MATLAB editor backups and temporary files
+*.asv
+*.m~
+*.autosave
+slprj/
+*.slxc
+# Operating system files
+.DS_Store
+Thumbs.db

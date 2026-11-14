@@ -104,4 +104,4 @@ This is an educational toolkit, not a validated numerical engine for safety-crit
 **Tabassum Tariq**  
 BS Computational Physics · University of the Punjab, Lahore
 
-Developed as a hands-on MATLAB learning project with AI-assisted coding and documentation. The author ran and explored the application in MATLAB.
+Developed as a hands-on MATLAB learning project. The author ran and explored the application in MATLAB.
